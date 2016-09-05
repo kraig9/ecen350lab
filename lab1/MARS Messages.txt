@@ -1,0 +1,215 @@
+ Assemble: assembling C:\Users\Kraig\Documents\GitHub\ecen350lab\lab1\Lab1a.s
+
+Assemble: operation completed successfully.
+
+Assemble: assembling C:\Users\Kraig\Documents\GitHub\ecen350lab\lab1\Lab1a.s
+
+Assemble: operation completed successfully.
+
+Assemble: assembling C:\Users\Kraig\Documents\GitHub\ecen350lab\lab1\Lab1a.s
+
+Assemble: operation completed successfully.
+
+Assemble: assembling C:\Users\Kraig\Documents\GitHub\ecen350lab\lab1\Lab1a.s
+
+Assemble: operation completed successfully.
+
+Assemble: assembling C:\Users\Kraig\Documents\GitHub\ecen350lab\lab1\Lab1a.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1a.s
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\Kraig\Documents\GitHub\ecen350lab\lab1\Lab1a.s
+
+Assemble: operation completed successfully.
+
+Error in : invalid program counter value: 0x00000000
+
+Step: execution terminated with errors.
+
+Assemble: assembling C:\Users\Kraig\Documents\GitHub\ecen350lab\lab1\Lab1a.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1a.s
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Go: running Lab1a.s
+
+Go: execution paused at breakpoint: Lab1a.s
+
+Error in : invalid program counter value: 0x00000000
+
+Step: execution terminated with errors.
+
+Assemble: assembling C:\Users\Kraig\Documents\GitHub\ecen350lab\lab1\Lab1a.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1a.s
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\Kraig\Documents\GitHub\ecen350lab\lab1\Lab1a.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1a.s
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\Kraig\Documents\GitHub\ecen350lab\lab1\Lab1a.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1a.s
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\Kraig\Documents\GitHub\ecen350lab\lab1\Lab1a.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1a.s
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\Kraig\Documents\GitHub\ecen350lab\lab1\Lab1a.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1a.s
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\Kraig\Documents\GitHub\ecen350lab\lab1\Lab1a.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1a.s
+
+
+Go: execution terminated by null instruction.
+
+Assemble: assembling C:\Users\Kraig\Documents\GitHub\ecen350lab\lab1\Lab1a.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1a.s
+
+
+Go: execution completed successfully.
+
+Assemble: assembling C:\Users\Kraig\Documents\GitHub\ecen350lab\lab1\Lab1b.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1b.s
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\Kraig\Documents\GitHub\ecen350lab\lab1\Lab1b.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1b.s
+
+
+Go: execution completed successfully.
+
+Go: running Lab1b.s
+
+
+Go: execution completed successfully.
+
+Assemble: assembling C:\Users\Kraig\Documents\GitHub\ecen350lab\lab1\Lab1c.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1c.s
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Go: running Lab1c.s
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\Kraig\Documents\GitHub\ecen350lab\lab1\Lab1c.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1c.s
+
+
+Go: execution completed successfully.
+
+Go: running Lab1c.s
+
+
+Go: execution completed successfully.
+
+Go: running Lab1c.s
+
+
+Go: execution completed successfully.
+
+Go: running Lab1c.s
+
+
+Go: execution completed successfully.
+
+Go: running Lab1c.s
+
+
+Go: execution completed successfully.
+
+Go: running Lab1c.s
+
+
+Go: execution completed successfully.
+
+Go: running Lab1c.s
+
+
+Go: execution completed successfully.
+
+Go: running Lab1c.s
+
+Go: execution paused at breakpoint: Lab1c.s
+
+Go: running Lab1c.s
+
+Go: execution paused at breakpoint: Lab1c.s
+
+Go: running Lab1c.s
+
+Go: execution paused at breakpoint: Lab1c.s
+
+Go: running Lab1c.s
+
+Go: execution paused at breakpoint: Lab1c.s
+

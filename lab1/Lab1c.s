@@ -19,8 +19,8 @@
     # do some computation here with the integer
     addu $t0, $v0, $0 	# move the number in $v0 to $t0
     # make sure you replace Z with the first digit of your UIN
-    sll $t1,$t0, Z  	#computation 1, result is in $t1
-    srl $t2,$t0, Z  	#computation 2, result is in $t2
+    sll $t1,$t0, 8  	#computation 1, result is in $t1
+    srl $t2,$t0, 8  	#computation 2, result is in $t2
     
     # print the first result
     li $v0, 4 		# system call for print_str
@@ -38,4 +38,5 @@
     syscall
     # restore now the return address in $ra and return from main
     addu $ra, $0, $s0 	# return address back in $31
-    jr $ra 			# return from main
+    li $v0 10 			# return from main
+	syscall

@@ -1,0 +1,133 @@
+
+Reset: reset completed.
+
+
+Reset: reset completed.
+
+
+Reset: reset completed.
+
+
+Reset: reset completed.
+
+
+Reset: reset completed.
+
+
+Reset: reset completed.
+
+
+Reset: reset completed.
+
+
+Reset: reset completed.
+
+
+Reset: reset completed.
+
+
+Reset: reset completed.
+
+
+Reset: reset completed.
+
+
+Reset: reset completed.
+
+
+Reset: reset completed.
+
+
+Reset: reset completed.
+
+
+Reset: reset completed.
+
+0
+-- program is finished running (dropped off bottom) --
+
+
+-- program is finished running --
+
+
+-- program is finished running --
+
+
+Reset: reset completed.
+
+
+-- program is finished running --
+
+Please enter an integer number: 9
+	First result: 2304	Second result: 0
+Reset: reset completed.
+
+Please enter an integer number: 8
+	First result: 2048	Second result: 0Please enter an integer number: 5
+	First result: 1280	Second result: 0
+-- program is finished running --
+
+
+Reset: reset completed.
+
+Please enter an integer number: 8
+	First result: 2048	Second result: 0
+-- program is finished running --
+
+
+Reset: reset completed.
+
+Please enter an integer number: 7
+	First result: 1792	Second result: 0
+-- program is finished running --
+
+
+Reset: reset completed.
+
+Please enter an integer number: 5
+	First result: 1280	Second result: 0
+-- program is finished running --
+
+
+Reset: reset completed.
+
+Please enter an integer number: 5
+	First result: 1280	Second result: 0
+-- program is finished running --
+
+
+Reset: reset completed.
+
+Please enter an integer number: 6
+	First result: 1536	Second result: 0
+-- program is finished running --
+
+
+Reset: reset completed.
+
+Please enter an integer number: 4
+	First result: 1024	Second result: 0
+-- program is finished running --
+
+
+Reset: reset completed.
+
+
+Reset: reset completed.
+
+Please enter an integer number: 
+Reset: reset completed.
+
+Please enter an integer number: 9
+
+Reset: reset completed.
+
+Please enter an integer number: 8
+
+Reset: reset completed.
+
+Please enter an integer number: 7
+
+Reset: reset completed.
+
+Please enter an integer number: 6
