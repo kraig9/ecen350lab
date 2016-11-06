@@ -76,11 +76,12 @@ module SingleCycleProc(CLK, Reset_L, startPC, dMemOut);
 	
 	//Register file
 	/*create the RegDst mux*/
-
+	assign #2 rw = RegDst ? rd : rt;
 	RegisterFile registers(busA, busB, busW, rs, rt, rw, RegWrite, CLK);
 	
 	//Sign Extender
 	/*instantiate the sign extender*/
+	SignExtender signex(signExtImm32, imm16, SignExtend);
 	
 	//ALU
 	ALUControl ALUCont(ALUCtrl, ALUOp, func);
@@ -93,5 +94,5 @@ module SingleCycleProc(CLK, Reset_L, startPC, dMemOut);
 	//Data Memory
 	DataMemory data(dMemOut, ALUResult, busB, MemRead, MemWrite, CLK);
 	/*create MemToReg mux */
-	
+	assign #2 busW = MemToReg ? dMemOut : ALUResult;
 endmodule
