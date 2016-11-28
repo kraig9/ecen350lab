@@ -129,7 +129,7 @@ module PipelinedProc(CLK, Reset_L, startPC, dMemOut);
 				Reset_L, CLK);
 	
 	RegisterFile Registers(busA, busB, regWriteData, rs, rt, rw5, regWrite5, CLK);
-	SignExtender immExt(signExtImm, imm16, ~signExtend);
+	SignExtender immExt(signExtImm, imm16, signExtend);
 	assign jumpTarget = {currentPC[31:28], currentInstruction2[25:0], 2'b00};
 
 	assign #2 ALUImmRegChoice = aluSrc ? signExtImm : busB;
